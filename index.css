@@ -1,0 +1,109 @@
+body{
+    background-image: url('https://images.unsplash.com/photo-1553969196-73b12db1c2ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2V0aGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
+background-size:cover;
+    
+}
+#gmap_canvas{
+overflow:hidden;
+background:none!important;
+height:400px;
+width:600px;
+}
+#navbar{
+    background-color: yellow;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+ margin-right: 10px;
+}
+#navbar{
+    margin-top: 10px; 
+    
+}
+#navbar>button{
+    margin-top: 12px;
+   
+}
+#box{
+    /* border: 1px solid black; */
+    display:flex;
+    justify-content:space-evenly;
+    margin-top: 50px;
+
+}
+#box>div{
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-size: 50px;
+   padding: 20px;
+;
+    
+}
+p{
+    font-size: 20px;
+   
+    font-weight: bold;
+}
+#details7Days{
+    margin-top: 50px;
+    display: flex;
+  gap: 30px;
+    width: 100%;
+    /* border: 1px solid red; */
+}
+#details7Days>div{
+    text-align: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    border-radius: 10px;
+    background-color:rgb(52, 248, 52);
+    padding: 10px;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+span{
+    color: white;
+    font-size: 30px;
+}
+#box1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+#box2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+#box3{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+#box4{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+#box5{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+#box6{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+#box7{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
