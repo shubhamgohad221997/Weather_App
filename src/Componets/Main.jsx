@@ -41,10 +41,10 @@ function get7Day(lat,lon){
 // setCity("pune")
 getData(city)
 console.log("data1",data)
-get7Day(19.9975,73.7898)
+
 useEffect(()=>{
     
-    
+    get7Day(19.9975,73.7898)
 })
 
   return (
